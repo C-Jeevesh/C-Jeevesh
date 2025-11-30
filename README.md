@@ -3,7 +3,6 @@
 <h1>👋 Hi, I'm <span style="color:#bb86fc;">Jeevesh</span></h1>
 
 <!-- Cinematic gradient bar -->
-<img src="./assets/cinematic-bar.svg" width="60%">
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;Blending+Logic+with+Creativity" />
@@ -16,7 +15,6 @@
 </p>
 
 </div>
-<img src="./assets/divider.svg" width="90%">
 
 ---
 

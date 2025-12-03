@@ -53,13 +53,12 @@ I merge **tech + creativity** — design.
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=C-Jeevesh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Jeevesh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=C-Jeevesh&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Jeevesh&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+<br/>
 
 ---
 
@@ -74,6 +73,10 @@ I merge **tech + creativity** — design.
 <a href="https://linkedin.com/in/C-Jeevesh">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh)
 
 ---
 

@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>👋 Hey, I'm <span style="color:#bb86fc;">Jeevesh</span></h1>
+<h1><b> Hey, I'm <span style="color:#bb86fc;">Jeevesh</span></h1>
 
 <!-- Cinematic gradient bar -->
 
@@ -82,5 +82,5 @@ I merge **tech + creativity** — design.
 
 Thanks for visiting! Have a great day!
 
----
+---</b>
 </div>

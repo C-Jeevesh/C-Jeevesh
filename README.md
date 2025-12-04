@@ -53,13 +53,6 @@ I merge **tech + creativity** — design.
 
 <div align="center">
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=C-Jeevesh&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Jeevesh&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/>
-<br/>
-
 ---
 
 <div align="center">
@@ -82,5 +75,7 @@ I merge **tech + creativity** — design.
 
 Thanks for visiting! Have a great day!
 
----</b>
+---
+
+</b>
 </div>

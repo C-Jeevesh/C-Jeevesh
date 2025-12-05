@@ -73,7 +73,7 @@ I merge **tech + creativity** — design.
 
 ---
 
-Thanks for visiting! Have a great day!
+Thanks for visiting , Have a great day!
 
 ---
 

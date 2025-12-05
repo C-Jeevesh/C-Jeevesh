@@ -29,7 +29,7 @@ Something beautiful is compiling in the shadows.
  Animated. Minimal. Intelligent. And powered by caffeine ☕.
 
 ## ⚡ Fun Fact  
-I merge **tech + creativity** — design.
+I merge **tech + creativity** — design
 
 ---
 

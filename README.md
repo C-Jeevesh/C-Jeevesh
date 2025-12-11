@@ -50,9 +50,7 @@ I merge **tech + creativity**
 
 ## 💭 Daily Wisdom
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=23&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.+%E2%80%94+Cory+House" alt="Daily Quote" />
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Relax.+A+clear+mind+solves+bugs+faster+than+a+busy+one.+%E2%80%94+Daily+Mantra" alt="Daily Quote" />
 
 </div>
 

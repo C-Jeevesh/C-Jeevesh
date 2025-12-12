@@ -49,7 +49,7 @@ I merge **tech + creativity**
 <div align="center">
 
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Every+great+developer+got+there+by+solving+problems+they+were+unqualified+to+solve.+%E2%80%94+Patrick+McKenzie" alt="Daily Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=2000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Think+twice,+code+once." alt="Daily Quote" />
 
 </div>
 

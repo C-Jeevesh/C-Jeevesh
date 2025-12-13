@@ -2,7 +2,7 @@
 
 <h1><b> Hey, I'm <span style="color:#bb86fc;">Jeevesh</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=2500&pause=800&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;fast+,interactive+,intelligent+web+experiences" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;fast+,interactive+,intelligent+web+experiences" alt="Typing Header" />
 
 <p align="center">
 ✨ <strong style="color:#c084fc">Building</strong> fast, interactive, intelligent web experiences<br>
@@ -49,7 +49,7 @@ I merge **tech + creativity**
 <div align="center">
 
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Programming+is+not+about+what+you+know,+it+is+about+what+you+can+figure+out.+%E2%80%94+Chris+Pine" alt="Daily Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1500&color=7dd3fc&center=true&vCenter=true&width=900&lines=Programming+is+not+about+what+you+know,+it+is+about+what+you+can+figure+out.+%E2%80%94+Chris+Pine" alt="Daily Quote" />
 
 </div>
 

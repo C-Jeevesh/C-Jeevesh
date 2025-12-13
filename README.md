@@ -49,7 +49,7 @@ I merge **tech + creativity**
 <div align="center">
 
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=2000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Think+twice,+code+once." alt="Daily Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Programming+is+not+about+what+you+know,+it+is+about+what+you+can+figure+out.+%E2%80%94+Chris+Pine" alt="Daily Quote" />
 
 </div>
 

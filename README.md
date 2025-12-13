@@ -73,7 +73,7 @@ I merge **tech + creativity**
 
 ---
 
-<p>Thanks for visiting, Have a great day!</p>
+<h3><i>Thanks for visiting, Have a great day!</i></h3>
 
 </div>
 

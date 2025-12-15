@@ -67,10 +67,6 @@ I merge **tech + creativity**
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://instagram.com/_.jeevesh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh)

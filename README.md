@@ -46,8 +46,12 @@ I merge **tech + creativity**
 
 <div align="center">
 
+  <div align="center">
+
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.+%E2%80%94+Arthur+C.+Clarke" alt="Daily Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Small+steps,+Big+dreams." alt="Daily Quote" />
+
+</div>
 
 </div>
 

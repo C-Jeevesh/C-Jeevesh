@@ -58,6 +58,8 @@ I merge **tech + creativity**
 
 <div align="center">
 
+---
+
 ## 📫 Reach Me At
 
 <a href="mailto:jeeveshc20@gmail.com">
@@ -77,4 +79,4 @@ I merge **tech + creativity**
 
 </div>
 
----
+

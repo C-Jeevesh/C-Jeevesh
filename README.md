@@ -5,7 +5,7 @@
 <p align="center">
 ✨<strong style="color:#c084fc">Building</strong> fast, interactive, intelligent web experiences<br>
 💡Blending <strong style="color:#7dd3fc">Frontend + AI</strong> to create smarter UIs<br>
-🎨 Passionate about <strong style="color:#f9a8d4">design & animations</strong>
+🎨Passionate about <strong style="color:#f9a8d4">design & animations</strong>
 </p>
 
 </div>

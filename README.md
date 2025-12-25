@@ -49,8 +49,7 @@ I merge **tech + creativity**
   <div align="center">
 
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Make+it+simple,+but+significant." alt="Daily Quote" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Do+it+with+passion+or+not+at+all." alt="Daily Quote" /></div>
 
 </div>
 

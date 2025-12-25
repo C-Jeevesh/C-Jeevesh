@@ -2,16 +2,34 @@
 
 <h1>Hey, I'm <span style="color:#fbbf24;">Jeevesh</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Specialist;AI+Integrator" alt="Typing Header" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Specialist;Web+Innovator" alt="Typing Header" />
 
 <p align="center" style="max-width: 600px;">
 Building fast, interactive, and intelligent web experiences.<br>
-Specializing in high-performance <b>Frontend Architecture</b> and <b>AI-driven Interfaces</b>.
+Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design</b>.
 </p>
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🚀 FOCUS & INTERESTS
+
+**Current Focus:** Developing scalable component systems & modern UI patterns.<br>
+**Philosophy:** Minimal design, maximum impact.<br>
+**Location:** Mangalore, India.
+
+</div>
+
+<br>
+
+---
 
 <br>
 
@@ -35,18 +53,21 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>AI-driven I
 
 <br>
 
-### 🚀 Focus & Interests
-* **Current Focus:** Developing scalable component systems and exploring Generative AI for web workflows.
-* **Philosophy:** Minimal design, maximum impact.
-* **Location:** Mangalore, India.
+---
 
 <br>
 
 <div align="center">
 
+### 💭 DAILY WISDOM
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Do+it+with+passion+or+not+at+all." alt="Daily Quote" />
 
 </div>
+
+<br>
+
+---
 
 <br>
 

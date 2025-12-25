@@ -1,11 +1,13 @@
 <div align="center">
 
-<h1><b> Hey, I'm <span style="color:#bb86fc;">Jeevesh</span></h1>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;fast+,interactive+,intelligent+web+experiences" alt="Typing Header" />
+<h1><b> Hey, I'm <span style="color:#fbbf24;">Jeevesh</span></b></h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1000&color=e2e8f0&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;Fast,+Interactive,+Intelligent" alt="Typing Header" />
+
 <p align="center">
-✨<strong style="color:#c084fc">Building</strong> fast , interactive , intelligent web experiences<br>
-💡Blending <strong style="color:#7dd3fc">Frontend + AI</strong> to create smarter UIs<br>
-🎨Passionate about <strong style="color:#f9a8d4">design & animations</strong>
+✨ <strong style="color:#fbbf24">Building</strong> fast, interactive, intelligent web experiences<br>
+💡 Blending <strong style="color:#ffffff">Frontend + AI</strong> to create smarter UIs<br>
+🎨 Passionate about <strong style="color:#ffffff">design & animations</strong>
 </p>
 
 </div>
@@ -22,23 +24,23 @@ Something beautiful is compiling in the shadows.
 Animated. Minimal. Intelligent. And powered by caffeine ☕.
 
 ## ⚡ Fun Fact
-I merge **tech + creativity**
+I merge **tech + creativity**.
 
 ---
 
 <div align="center">
 
-## 🎨 TECH STACKS .
+## 🎨 TECH STACKS
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-101010?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-101010?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-101010?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-101010?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="NextJS" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" alt="Figma" />
+<img src="https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS" />
+<img src="https://img.shields.io/badge/TailwindCSS-101010?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Figma-101010?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 
 </div>
 
@@ -46,10 +48,8 @@ I merge **tech + creativity**
 
 <div align="center">
 
-  <div align="center">
-
 ## 💭 Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Do+it+with+passion+or+not+at+all." alt="Daily Quote" /></div>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Do+it+with+passion+or+not+at+all." alt="Daily Quote" />
 
 </div>
 
@@ -60,11 +60,11 @@ I merge **tech + creativity**
 ## 📫 Reach Me At
 
 <a href="mailto:jeeveshc20@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-101010?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://linkedin.com/in/C-Jeevesh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-101010?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
 ---
@@ -73,8 +73,6 @@ I merge **tech + creativity**
 
 ---
 
-<p><i>Thanks for visiting , Have a great day!</i></p>
+<p><i>Thanks for visiting, have a great day.</i></p>
 
 </div>
-
-

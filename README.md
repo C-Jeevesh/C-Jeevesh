@@ -2,12 +2,12 @@
 
 <h1><b> Hey, I'm <span style="color:#fbbf24;">Jeevesh</span></b></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1000&color=fbbf24&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;Fast,+Interactive,+Intelligent" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Dev+%7C+AI+Learner+%7C+Web+Innovator;Building+Smart+Interfaces;Fast,+Interactive,+Intelligent" alt="Typing Header" />
 
 <p align="center">
-✨ <strong style="color:#ffffff">Building</strong> fast, interactive, intelligent web experiences<br>
-💡 Blending <strong style="color:#fbbf24">Frontend + AI</strong> to create smarter UIs<br>
-🎨 Passionate about <strong style="color:#ffffff">design & animations</strong>
+✨ <strong style="color:#fbbf24">Building</strong> fast, interactive, intelligent web experiences<br>
+💡 Blending <strong style="color:#7dd3fc">Frontend + AI</strong> to create smarter UIs<br>
+🎨 Passionate about <strong style="color:#7dd3fc">design & animations</strong>
 </p>
 
 </div>

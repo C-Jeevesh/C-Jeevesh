@@ -19,7 +19,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-###  FOCUS & INTERESTS
+### 😄 FOCUS & INTERESTS
 
 **Current Focus:** Developing scalable component systems & modern UI patterns.<br>
 **Philosophy:** Minimal design, maximum impact.<br>
@@ -59,7 +59,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-### 💭 DAILY WISDOM
+###  DAILY WISDOM
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Do+it+with+passion+or+not+at+all." alt="Daily Quote" />
 

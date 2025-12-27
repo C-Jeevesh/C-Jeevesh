@@ -8,7 +8,6 @@
 Building fast, interactive, and intelligent web experiences.<br>
 Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design</b>.
 </p>
-**Location:** Mangalore, India.
 
 
 </div>

@@ -8,6 +8,8 @@
 Building fast, interactive, and intelligent web experiences.<br>
 Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design</b>.
 </p>
+**Location:** Mangalore, India.
+
 
 </div>
 
@@ -23,7 +25,6 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 **Current Focus:** Developing scalable component systems & modern UI patterns.<br>
 **Philosophy:** Minimal design, maximum impact.<br>
-**Location:** Mangalore, India.
 
 </div>
 

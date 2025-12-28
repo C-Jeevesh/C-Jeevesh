@@ -20,7 +20,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-### FOCUS & INTERESTS
+### FOCUS & INTERESTS .
 
 **Current Focus:** Developing scalable component systems & modern UI patterns.<br>
 **Philosophy:** Minimal design, maximum impact.<br>

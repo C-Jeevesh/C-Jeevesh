@@ -61,8 +61,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 ###  DAILY WISDOM
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Design+is+intelligence+made+visible.+%E2%80%94+Alina+Wheeler" alt="Daily Quote" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Quality+is+not+an+act,+it+is+a+habit.+%E2%80%94+Aristotle" alt="Daily Quote" /></div>
 
 <br>
 

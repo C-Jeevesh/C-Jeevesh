@@ -71,7 +71,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-### LETS CONNECT
+### LETS CONNECT .
 
 <a href="mailto:jeeveshc20@gmail.com">
 <img src="https://img.shields.io/badge/Email-101010?style=flat-square&logo=gmail&logoColor=white" alt="Email" />

@@ -6,7 +6,7 @@
 
 <p align="center" style="max-width: 600px;">
 Building fast, interactive, and intelligent web experiences.<br>
-Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design</b>
+Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design.</b>
 </p>
 
 

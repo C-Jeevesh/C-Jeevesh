@@ -61,8 +61,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 ###  DAILY WISDOM 
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=Tomorrow+is+the+first+blank+page.+Write+a+good+one." alt="Daily Quote" />
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=The+secret+of+getting+ahead+is+getting+started.+%E2%80%94+Mark+Twain" alt="Daily Quote" /><br>
 
 ---
 

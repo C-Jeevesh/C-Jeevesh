@@ -1,57 +1,52 @@
 <div align="left">
 
-<h1>Jeevesh<span style="color:#38bdf8;">.log</span></h1>
+<h1>Hi, I'm <span style="color:#fbbf24;">Jeevesh.</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=94a3b8&width=600&lines=Subject:+Frontend+Architecture;Status:+Compiling+New+Ideas...;Location:+Mangalore,+IN" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94a3b8&width=600&lines=I+write+code+that+people+love+to+use.;Turning+complex+logic+into+simple+designs.;Welcome+to+my+digital+space." alt="Typing Header" />
 
-<br>
+<br><br>
 
-## I. The Prologue
-> *“Code is just a modern form of storytelling.”*
+**Let me tell you a bit about myself.**
 
-I am a **Frontend Developer** and **UI Architect** based in Mangalore. My narrative isn't just about writing functions; it's about crafting experiences. I sit at the intersection where **Design** meets **Logic**—blending the precision of AI with the fluidity of modern web interfaces.
+I’ve always been fascinated by the intersection where logic meets creativity. Based in Mangalore, I work as a **Frontend Developer**, but I like to think of myself as a builder of experiences.
 
-Currently, I am focused on simplifying the complex. I turn chaotic requirements into clean, minimal, and intelligent user interfaces.
-
-<br>
-
-## II. The Arsenal
-To build these worlds, I rely on a specific set of tools. I treat my stack not just as software, but as a craft.
-
-**The Foundation:**
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-
-**The Engine:**
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-
-**The Canvas:**
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+For me, code isn't just about syntax or algorithms; it's a modern form of storytelling. I spend my days (and often my nights) blending the precision of **AI** with the fluidity of **interface design**. My goal is simple: to make the web feel faster, smarter, and a little more human.
 
 <br>
 
-## III. Current Quest (2026)
-Every protagonist needs a mission. Mine is currently:
-* **Building:** A scalable design system that bridges the gap between designers and developers.
-* **Learning:** The deep integration of Generative AI into frontend workflows.
-* **Philosophy:** *Minimalism is the ultimate sophistication.*
+**The tools I use to create.**
+
+When I sit down to build, these are the technologies I reach for. They aren't just tools to me; they are the medium through which I solve problems.
 
 <br>
 
-## IV. Daily Wisdom
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=38bdf8&width=600&lines=The+secret+of+getting+ahead+is+getting+started.+--+Mark+Twain" alt="Daily Quote" />
+<img src="https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-101010?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Tailwind-101010?style=flat-square&logo=tailwindcss&logoColor=38B2AC" /> <img src="https://img.shields.io/badge/Figma-101010?style=flat-square&logo=figma&logoColor=F24E1E" />
+
+<br><br>
+
+**What's on my mind right now?**
+
+It's 2026, and the landscape is shifting. Currently, I'm focused on removing the clutter. I'm exploring how **Minimalism** and **Generative AI** can work together to create interfaces that don't just look good, but actually anticipate what the user needs.
+
+I believe in the idea that *complexity is easy, but simplicity is hard.*
 
 <br>
 
----
+**A thought for the day.**
 
-### V. Epilogue (Connect)
-If you wish to collaborate, discuss ideas, or simply say hello:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=fbbf24&width=600&lines=The+secret+of+getting+ahead+is+getting+started.+--+Mark+Twain" alt="Daily Quote" />
 
-[<img src="https://img.shields.io/badge/jeeveshc20@gmail.com-d1d5db?style=social&logo=gmail" />](mailto:jeeveshc20@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />](https://linkedin.com/in/C-Jeevesh)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" />](https://instagram.com/_.jeevesh)
+<br><br>
 
-<br>
+**Let's keep the conversation going.**
+
+If you want to discuss a project, share an idea, or just talk about the future of tech, feel free to reach out.
+
+[<img src="https://img.shields.io/badge/Email_Me-101010?style=social&logo=gmail" />](mailto:jeeveshc20@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-101010?style=social&logo=linkedin" />](https://linkedin.com/in/C-Jeevesh)
+[<img src="https://img.shields.io/badge/Instagram-101010?style=social&logo=instagram" />](https://instagram.com/_.jeevesh)
+
+<br><br>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh&left_color=gray&right_color=black)
 

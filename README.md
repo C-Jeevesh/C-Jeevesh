@@ -1,92 +1,58 @@
-<div align="center">
+<div align="left">
 
-<h1>Hey, I'm <span style="color:#fbbf24;">Jeevesh</span></h1>
+<h1>Jeevesh<span style="color:#38bdf8;">.log</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Web+Innovator" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=94a3b8&width=600&lines=Subject:+Frontend+Architecture;Status:+Compiling+New+Ideas...;Location:+Mangalore,+IN" alt="Typing Header" />
 
-<p align="center" style="max-width: 600px;">
-Building fast, interactive, and intelligent web experiences.<br>
-Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design.</b>
-</p>
+<br>
 
-</div>
+## I. The Prologue
+> *“Code is just a modern form of storytelling.”*
+
+I am a **Frontend Developer** and **UI Architect** based in Mangalore. My narrative isn't just about writing functions; it's about crafting experiences. I sit at the intersection where **Design** meets **Logic**—blending the precision of AI with the fluidity of modern web interfaces.
+
+Currently, I am focused on simplifying the complex. I turn chaotic requirements into clean, minimal, and intelligent user interfaces.
+
+<br>
+
+## II. The Arsenal
+To build these worlds, I rely on a specific set of tools. I treat my stack not just as software, but as a craft.
+
+**The Foundation:**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+
+**The Engine:**
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+
+**The Canvas:**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+<br>
+
+## III. Current Quest (2026)
+Every protagonist needs a mission. Mine is currently:
+* **Building:** A scalable design system that bridges the gap between designers and developers.
+* **Learning:** The deep integration of Generative AI into frontend workflows.
+* **Philosophy:** *Minimalism is the ultimate sophistication.*
+
+<br>
+
+## IV. Daily Wisdom
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=38bdf8&width=600&lines=The+secret+of+getting+ahead+is+getting+started.+--+Mark+Twain" alt="Daily Quote" />
 
 <br>
 
 ---
 
-<br>
+### V. Epilogue (Connect)
+If you wish to collaborate, discuss ideas, or simply say hello:
 
-<div align="center">
-
-### 🚀 FOCUS & INTERESTS
-
-**Current Focus:** Developing scalable component systems & modern UI patterns.<br>
-**Philosophy:** Minimal design, maximum impact.<br>
-**Location:** Mangalore, India.
-
-</div>
+[<img src="https://img.shields.io/badge/jeeveshc20@gmail.com-d1d5db?style=social&logo=gmail" />](mailto:jeeveshc20@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />](https://linkedin.com/in/C-Jeevesh)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" />](https://instagram.com/_.jeevesh)
 
 <br>
 
----
-
-<br>
-
-<div align="center">
-
-### 🛠️ TECH STACK
-
-<img src="https://img.shields.io/badge/HTML5-101010?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-101010?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-101010?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-101010?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-
-<br>
-
-<img src="https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS" />
-<img src="https://img.shields.io/badge/Tailwind-101010?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Figma-101010?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 💭 DAILY WISDOM
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=The+secret+of+getting+ahead+is+getting+started.+%E2%80%94+Mark+Twain" alt="Daily Quote" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 📫 LETS CONNECT
-
-<a href="mailto:jeeveshc20@gmail.com">
-<img src="https://img.shields.io/badge/Email-101010?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/C-Jeevesh">
-<img src="https://img.shields.io/badge/LinkedIn-101010?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/_.jeevesh">
-<img src="https://img.shields.io/badge/Instagram-101010?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
-</a>
-
-<br><br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh&left_color=gray&right_color=black)
 
 </div>

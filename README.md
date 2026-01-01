@@ -2,13 +2,13 @@
 
 <h1>Hi, I'm <span style="color:#fbbf24;">Jeevesh.</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94a3b8&width=600&lines=I+write+code+that+people+love+to+use.;Turning+complex+logic+into+simple+designs.;Welcome+to+my+digital+space." alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94a3b8&width=600&lines=.Welcome+to+my+digital+space.;I'm+Focused+to+become+UI/UI+Developer.;Turning+complex+logic+into+simple+designs.;" alt="Typing Header" />
 
 <br><br>
 
 **Let me tell you a bit about myself.**
 
-I’ve always been fascinated by the intersection where logic meets creativity. Based in Mangalore, I work as a **Frontend Developer**, but I like to think of myself as a builder of experiences.
+I’ve always been fascinated by the intersection where logic meets creativity.  I work as a **Frontend Developer**and UI/UX Developer, but I like to think of myself as a builder of experiences.
 
 For me, code isn't just about syntax or algorithms; it's a modern form of storytelling. I spend my days (and often my nights) blending the precision of **AI** with the fluidity of **interface design**. My goal is simple: to make the web feel faster, smarter, and a little more human.
 
@@ -41,6 +41,7 @@ I believe in the idea that *complexity is easy, but simplicity is hard.*
 **Let's keep the conversation going.**
 
 If you want to discuss a project, share an idea, or just talk about the future of tech, feel free to reach out.
+Based in Mangalore
 
 [<img src="https://img.shields.io/badge/Email_Me-101010?style=social&logo=gmail" />](mailto:jeeveshc20@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-101010?style=social&logo=linkedin" />](https://linkedin.com/in/C-Jeevesh)

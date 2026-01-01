@@ -9,7 +9,6 @@ Building fast, interactive, and intelligent web experiences.<br>
 Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist Design.</b>
 </p>
 
-
 </div>
 
 <br>
@@ -20,10 +19,11 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-### FOCUS & INTERESTS 
+### 🚀 FOCUS & INTERESTS
 
 **Current Focus:** Developing scalable component systems & modern UI patterns.<br>
 **Philosophy:** Minimal design, maximum impact.<br>
+**Location:** Mangalore, India.
 
 </div>
 
@@ -35,7 +35,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-###  TECH STACK 
+### 🛠️ TECH STACK
 
 <img src="https://img.shields.io/badge/HTML5-101010?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-101010?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -59,9 +59,13 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-###  DAILY WISDOM 
+### 💭 DAILY WISDOM
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=The+secret+of+getting+ahead+is+getting+started.+%E2%80%94+Mark+Twain" alt="Daily Quote" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=16&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=900&lines=The+secret+of+getting+ahead+is+getting+started.+%E2%80%94+Mark+Twain" alt="Daily Quote" />
+
+</div>
+
+<br>
 
 ---
 
@@ -69,7 +73,7 @@ Specializing in high-performance <b>Frontend Architecture</b> and <b>Minimalist 
 
 <div align="center">
 
-### LETS CONNECT
+### 📫 LETS CONNECT
 
 <a href="mailto:jeeveshc20@gmail.com">
 <img src="https://img.shields.io/badge/Email-101010?style=flat-square&logo=gmail&logoColor=white" alt="Email" />

@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm <span style="color:#fbbf24;">Jeevesh</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94a3b8&width=600&lines=.Welcome+to+my+digital+space.;I'm+Focused+to+become+UI/UI+Developer.;Turning+complex+logic+into+simple+designs.;" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=94a3b8&width=600&lines=Welcome+to+my+digital+space.;I'm+Focused+to+become+UI/UI+Developer.;Turning+complex+logic+into+simple+designs.;" alt="Typing Header" />
 
 <br><br>
 

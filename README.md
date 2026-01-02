@@ -24,7 +24,7 @@ When I sit down to build, these are the technologies I reach for. They aren't ju
 
 <br><br>
 
-**What's on my mind right now?**
+**What's on my mind right now ?**
 
 It's 2026, and the landscape is shifting. Currently, I'm focused on removing the clutter. I'm exploring how **Minimalism** and **Generative AI** can work together to create interfaces that don't just look good, but actually anticipate what the user needs.
 

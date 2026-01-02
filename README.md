@@ -48,6 +48,7 @@ Based in Mangalore
 [<img src="https://img.shields.io/badge/Instagram-101010?style=social&logo=instagram" />](https://instagram.com/_.jeevesh)
 
 <br><br>
+<right>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=C-Jeevesh.C-Jeevesh&left_color=gray&right_color=black)
 

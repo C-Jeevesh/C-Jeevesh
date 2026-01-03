@@ -6,7 +6,7 @@
 
 <br><br>
 
-**Let me tell you a bit about myself.**
+Let me tell you a bit about myself.
 
 I’ve always been fascinated by the intersection where logic meets creativity.  I work as a **Frontend Developer**and UI/UX Developer, but I like to think of myself as a builder of experiences.
 

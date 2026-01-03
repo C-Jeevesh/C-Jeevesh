@@ -14,7 +14,7 @@ For me, code isn't just about syntax or algorithms; it's a modern form of storyt
 
 <br>
 
-**The tools I use to create.**
+**The tools I use to create.
 
 When I sit down to build, these are the technologies I reach for. They aren't just tools to me; they are the medium through which I solve problems.
 

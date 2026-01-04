@@ -34,8 +34,7 @@ I believe in the idea that *complexity is easy, but simplicity is hard.*
 
 **A thought for the day.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=fbbf24&width=600&lines=The+secret+of+getting+ahead+is+getting+started.+--+Mark+Twain" alt="Daily Quote" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=fbbf24&width=600&lines=Start+where+you+are.+Use+what+you+have.+Do+what+you+can.+--+Arthur+Ashe" alt="Daily Quote" />
 <br><br>
 
 **Let's keep the conversation going.**

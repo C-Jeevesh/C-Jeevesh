@@ -8,7 +8,7 @@
 
 Let me tell you a bit about myself.
 
-I’ve always been fascinated by the intersection where logic meets creativity.  I work as a **Frontend Developer**and UI/UX Developer, but I like to think of myself as a builder of experiences.
+I’ve always been fascinated by the intersection where logic meets creativity . I work as a **Frontend Developer**and UI/UX Developer, but I like to think of myself as a builder of experiences.
 
 For me, code isn't just about syntax or algorithms; it's a modern form of storytelling. I spend my days (and often my nights) blending the precision of AI with the fluidity of **interface design**. My goal is simple: to make the web feel faster, smarter, and a little more human.
 

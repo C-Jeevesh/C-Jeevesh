@@ -21,7 +21,7 @@ When I sit down to build, these are the technologies I reach for. They aren't ju
 
 <img src="https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-101010?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Tailwind-101010?style=flat-square&logo=tailwindcss&logoColor=38B2AC" /> <img src="https://img.shields.io/badge/Figma-101010?style=flat-square&logo=figma&logoColor=F24E1E" />
 
-<br><br>
+<br>
 
 **What's on my mind right now?**
 

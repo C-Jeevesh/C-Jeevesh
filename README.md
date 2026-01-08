@@ -32,7 +32,7 @@ I believe in the idea that *complexity is easy, but simplicity is hard.*
 <br>
 
 **A thought for the day.**
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=fbbf24&width=600&lines=The+details+are+not+the+details.+They+make+the+design.+--+Charles+Eames" alt="Daily Quote" />
 <br><br>
 
 **Let's keep the conversation going.**

@@ -40,7 +40,7 @@ I believe in the idea that *complexity is easy, but simplicity is hard.*
 
 If you want to discuss a project, share an idea, or just talk about the future of tech, feel free to reach out.
 
-[<img src="https://img.shields.io/badge/Email_Me-101010?style=social&logo=gmail" />](mailto:jeeveshc20@gmail.com)
+[<img src="https://img.shields.io/badge/Email_Me-101010?style=social&logo=gmail" />](jeeveshc20@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-101010?style=social&logo=linkedin" />](https://linkedin.com/in/C-Jeevesh)
 [<img src="https://img.shields.io/badge/Instagram-101010?style=social&logo=instagram" />](https://instagram.com/_.jeevesh)
 
